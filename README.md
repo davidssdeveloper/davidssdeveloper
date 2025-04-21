@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o David!
 
-🎓 Sou um estudante universitário cursando **Ciências da Computação**, atualmente com **31 anos** e dando meus primeiros passos no mundo da programação.
+🎓 Sou um estudante universitário cursando **Ciências da Computação**, atualmente dando meus primeiros passos no mundo da programação.
 
 💻 Apesar de estar no começo da minha jornada, estou focado em me tornar um **Desenvolvedor Front-end completo**, aprendendo e praticando constantemente para evoluir minhas habilidades.
 
