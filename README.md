@@ -24,9 +24,10 @@
 
 ## 📚 Sobre mim
 
-Sou apaixonado por tecnologia e estou mergulhando de cabeça no universo da programação. Cada novo desafio é uma oportunidade de aprendizado, e estou sempre em busca de projetos que me ajudem a crescer como desenvolvedor.
+Sou estudante de Ciência da Computação, atualmente no 7º semestre, apaixonado por tecnologia e desenvolvimento de software. Possuo conhecimentos em HTML5, CSS3, lógica de programação e SQL básico, além de estar em constante aprendizado em JavaScript.
 
-Atualmente, foco no ecossistema **Front-end**, mas tenho curiosidade sobre todo o ciclo do desenvolvimento web.
+Mesmo sem experiência profissional no mercado, busco minha primeira oportunidade para aplicar na prática o que venho estudando, evoluir tecnicamente e contribuir com projetos reais. Sou curioso, organizado e gosto de entender como as coisas funcionam, sempre buscando escrever código limpo e bem documentado.
+🚀 Focado em aprendizado contínuo e crescimento profissional
 
 ---
 
